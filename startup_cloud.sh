@@ -16,7 +16,7 @@ users:
     - name: yc-user
       sudo: ALL=(ALL) NOPASSWD:ALL
       shell: /bin/bash
-      ssh-authorazed-keys:
+      ssh-authorized-keys:
         - $RSA_KEY
 
 runcmd:
