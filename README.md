@@ -39,7 +39,8 @@ _Connect to someinternalhost through VPN:_
 _Connect to Pritunl web-interface:_
 https://84.201.175.7.sslip.io/login
 ___
-testapp_IP = 84.201.159.253 \
+
+testapp_IP = 84.201.159.253
 testapp_port = 9292
 
 _How to install Monolith Reddit application_
